@@ -57,6 +57,9 @@ This project aims to predict the likelihood of a company filing for bankruptcy b
   3. **Gross Margins:** Percentage of revenue left after deducting the cost of goods sold.
   4. **Net Income:** Total earnings or losses.
   5. **Leverage Ratio:** Measures the extent of debt financing.
+ 
+
+You can access dataset [here](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)
 
 ## Methodology
 
